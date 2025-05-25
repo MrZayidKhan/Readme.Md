@@ -16,7 +16,7 @@ I'm a BE Computer Science student grinding to level up my skills. Mostly into co
 ![VSCode](https://img.shields.io/badge/VSCode-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MrZayidKhan&theme=radical&hide_border=true&show_icons=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=MrZayidKhan&theme=radical&hide_border=true&show_icons=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MrZayidKhan&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MrZayidKhan&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
